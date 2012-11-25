@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    capistrano-monit (0.0.1)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -22,3 +27,4 @@ PLATFORMS
 DEPENDENCIES
   bundler
   capistrano
+  capistrano-monit!
