@@ -7,7 +7,7 @@ Gem::Specification.new do |gem|
   gem.name          = "capistrano-monit"
   gem.version       = Capistrano::Monit::VERSION
   gem.authors       = ["Michael Nikitochkin"]
-  gem.email         = ["michael@jetthoughts.com"]
+  gem.email         = ["miry.sof@gmail.com"]
   gem.description   = %q{Capistrano tasks to ability to restart monit service and show current status}
   gem.summary       = %q{Monit plugin for Capistrano}
   gem.homepage      = "https://github.com/jetthoughts/capistrano-monit"
